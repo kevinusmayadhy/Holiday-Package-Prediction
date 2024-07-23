@@ -1,5 +1,4 @@
 # Holiday Package Prediction
----
 
 - Dataset: Sourced from [kaggle](https://www.kaggle.com/datasets/susant4learning/holiday-package-purchase-prediction).
 - Programming Language: Python Version 3.12.3
@@ -11,7 +10,6 @@
     - math
 
 ## Business Understanding
----
 
 **"Trips & Travel.com"** company wants to enable and establish a viable business model to expand the customer base. Currently, the company offers five types of packages: Basic, Standard, Deluxe, Super Deluxe, and King. *Last year's data found that 18% of customers purchased these packages. However, the marketing costs were high due to random customer outreach without utilizing available information.* The company now plans to launch a new product: the Wellness Tourism Package. Wellness Tourism involves travel that helps maintain, enhance, or start a healthy lifestyle, boosting one's overall well-being. *This time, the company intends to use existing data on current and potential customers to optimize marketing expenses efficiently.*
 
@@ -30,7 +28,6 @@ Based on this, we can determine the goals, objectives, and key metrics for this 
 - Return on investment (ROI): Assess the financial returns from the new Wellness Tourism Package and overall marketing efforts.
 
 ## Data Understanding
----
 
 The dataset used in this analysis is sourced from Kaggle, titled [Holiday Package Prediction](https://www.kaggle.com/datasets/susant4learning/holiday-package-purchase-prediction). It contains 4888 rows and 20 columns. The dataset includes the following columns:
 
@@ -56,7 +53,6 @@ The dataset used in this analysis is sourced from Kaggle, titled [Holiday Packag
 20. **MonthlyIncome**: Gross monthly income of the customer.
 
 ## Business Insight
----
 ### - Purchase Rate
 <p align="center">
   <img src="img/purchase_rate.png" />
